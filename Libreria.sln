@@ -16,6 +16,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dao", "Dao\Dao.csproj", "{E8013D60-03F3-4160-B14A-37CB25F8FECD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dlls", "Dlls", "{C2C625CC-EF5A-4892-9E9C-FF2A35A180C1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.dll = ..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.dll
+		..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.SqlServer.dll = ..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.SqlServer.dll
+		..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.SqlServer.xml = ..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.SqlServer.xml
+		..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.xml = ..\..\Users\amouhamed\Desktop\Dlls\EntityFramework.xml
+		..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.dll = ..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.dll
+		..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.Entity.EF6.dll = ..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.Entity.EF6.dll
+		..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.Entity.EF6.xml = ..\..\Users\amouhamed\Desktop\Dlls\MySql.Data.Entity.EF6.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

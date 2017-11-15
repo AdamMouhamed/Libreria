@@ -23,7 +23,7 @@ namespace Libreria
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Prestamo> Prestamos { get; set; }
 
-
+    }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
