@@ -18,6 +18,9 @@ namespace Libreria.Controllers
 
             var librolista = nose.Libros.Select(r => r).First();
 
+            var clientelista = nose.Libros.Select(r => r).First();
+
+            var prestamolista = nose.Prestamos.Select( r => r).First();
 
             ViewBag.Title = "Home Page";
 
