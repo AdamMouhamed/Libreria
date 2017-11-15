@@ -9,7 +9,7 @@ using MySql.Data;
 using System.Data.Entity.ModelConfiguration;
 using Entidades;
 
-namespace Libreria
+namespace Dao
 {
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
     public class BibliotecaEntity : DbContext
@@ -22,8 +22,6 @@ namespace Libreria
         public DbSet<Libro> Libros { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Prestamo> Prestamos { get; set; }
-
-    }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

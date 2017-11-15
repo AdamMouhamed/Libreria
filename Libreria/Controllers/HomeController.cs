@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Entidades;
+using Dao;
 
 namespace Libreria.Controllers
 {
