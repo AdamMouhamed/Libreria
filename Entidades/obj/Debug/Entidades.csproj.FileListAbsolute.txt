@@ -1,0 +1,11 @@
+c:\Biblioteca\Biblioteca\Biblioteca\Entidades\bin\Debug\Entidades.dll
+c:\Biblioteca\Biblioteca\Biblioteca\Entidades\bin\Debug\Entidades.pdb
+c:\Biblioteca\Biblioteca\Biblioteca\Entidades\obj\Debug\Entidades.dll
+c:\Biblioteca\Biblioteca\Biblioteca\Entidades\obj\Debug\Entidades.pdb
+C:\Biblioteca\Biblioteca\Biblioteca\Entidades\bin\Debug\Entidades.dll.config
+C:\Biblioteca\Biblioteca\Libreria\Entidades\bin\Debug\Entidades.dll.config
+C:\Biblioteca\Biblioteca\Libreria\Entidades\bin\Debug\Entidades.dll
+C:\Biblioteca\Biblioteca\Libreria\Entidades\bin\Debug\Entidades.pdb
+C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.dll
+C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.pdb
