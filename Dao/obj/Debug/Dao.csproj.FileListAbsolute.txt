@@ -1,0 +1,12 @@
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\Dao.dll
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\Dao.pdb
+C:\GIT\asdasd\Libreria\Dao\obj\Debug\Dao.dll
+C:\GIT\asdasd\Libreria\Dao\obj\Debug\Dao.pdb
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\Entidades.dll
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\EntityFramework.dll
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\Entidades.pdb
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\EntityFramework.xml
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT\asdasd\Libreria\Dao\bin\Debug\MySql.Data.Entity.EF6.xml

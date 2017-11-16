@@ -9,3 +9,9 @@ C:\Biblioteca\Biblioteca\Libreria\Entidades\bin\Debug\Entidades.pdb
 C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.dll
 C:\Biblioteca\Biblioteca\Libreria\Entidades\obj\Debug\Entidades.pdb
+C:\GIT\Libreria\Entidades\bin\Debug\Entidades.dll.config
+C:\GIT\Libreria\Entidades\bin\Debug\Entidades.dll
+C:\GIT\Libreria\Entidades\bin\Debug\Entidades.pdb
+C:\GIT\Libreria\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\GIT\Libreria\Entidades\obj\Debug\Entidades.dll
+C:\GIT\Libreria\Entidades\obj\Debug\Entidades.pdb

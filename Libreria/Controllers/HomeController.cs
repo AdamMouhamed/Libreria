@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Entidades;
+using Dao;
 
 namespace Libreria.Controllers
 {
@@ -17,6 +18,9 @@ namespace Libreria.Controllers
 
             var librolista = nose.Libros.Select(r => r).First();
 
+            var clientelista = nose.Libros.Select(r => r).First();
+
+            var prestamolista = nose.Prestamos.Select( r => r).First();
 
             ViewBag.Title = "Home Page";
 
